@@ -1,10 +1,17 @@
-## tutorial-forkify
+# tutorial-forkify
 
-#### install dependencies
+install dependencies
+
+```bash
 npm install
+```
+serve with hot reload at localhost:3000
 
-#### serve with hot reload at localhost:3000
+```bash
 npm run start
+```
+build for production with minification
 
-#### build for production with minification
+```bash
 npm run build
+```
