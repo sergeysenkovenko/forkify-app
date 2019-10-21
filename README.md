@@ -1,4 +1,6 @@
-# tutorial-forkify
+# forkify-app
+
+Recreating of the Forkify App from Jonas Schmedtmann's Udemy Course.
 
 install dependencies
 
